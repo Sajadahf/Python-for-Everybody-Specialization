@@ -1,5 +1,1 @@
-print('hello, world')
-print('Sajad')
-x = 3
-y = 2 + x
-print(y)
+print("Hello, My name is Sajad")
