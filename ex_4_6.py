@@ -12,5 +12,4 @@ def computepay(h, r):
     else:
         pay = (40.0 * r) + (((h - 40.0) * 1.5) * r)
         return pay
-
 main()
