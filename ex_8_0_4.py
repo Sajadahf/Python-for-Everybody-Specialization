@@ -7,4 +7,4 @@ while True:
     total = fnum + total
     count += 1
 average = total / count
-print('Average: ', average)    
+print('Average:', average)
