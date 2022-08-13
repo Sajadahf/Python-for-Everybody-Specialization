@@ -17,7 +17,7 @@ Received: from paploo.uhi.ac.uk (localhost [127.0.0.1])
 	by paploo.uhi.ac.uk (Postfix) with ESMTP id 5F919BC2F2;
 	Sat,  5 Jan 2008 14:10:05 +0000 (GMT)
 Message-ID: <200801051412.m05ECIaH010327@nakamura.uits.iupui.edu>
-Mime-Version: 1.0
+Mime-Version: 1.0 
 Content-Transfer-Encoding: 7bit
 Received: from prod.collab.uhi.ac.uk ([194.35.219.182])
           by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 899
