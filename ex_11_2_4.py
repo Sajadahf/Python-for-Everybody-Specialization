@@ -10,4 +10,3 @@ for line in hand:
     if re.findall("^From (\S+@\S+)", line):
         y = re.findall("^From (\S+@\S+)", line)
         print(y)
-        
