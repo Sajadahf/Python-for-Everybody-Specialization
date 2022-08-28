@@ -1,7 +1,6 @@
 import re
 
 hand = open("regex_sum_1607250.txt")
-
 sum = 0
 i = 0
 numlist = list()
