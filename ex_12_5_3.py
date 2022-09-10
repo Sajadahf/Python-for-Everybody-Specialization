@@ -12,6 +12,5 @@ spans = soup('span')
 for span in spans:
     sum += int(span.contents[0])
     countos += 1
-
 print('Count ', countos)
 print('Sum ', sum)

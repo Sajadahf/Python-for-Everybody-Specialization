@@ -6,7 +6,6 @@ url = input("Enter - ")
 repeat_count = int(input("Enter count: "))
 position = int(input("Enter position: "))
 
-
 def parsehtml(url):
     html = urllib.request.urlopen(url).read()
     soup = BeautifulSoup(html, "html.parser")
